@@ -1,11 +1,11 @@
 
 # Tea
 
-Random TEA Wallet Address Generator
+Random TEA Wallet Address Generator.
 
 ## Overview
 
-This project provides a simple utility to generate random TEA wallet addresses in bulk. It is designed to quickly create multiple wallet addresses for the TEA blockchain or token ecosystem.
+This project provides a simple utility to generate random TEA wallet addresses in bulk. It is designed to quickly create multiple wallet addresses for the TEA blockchain or token ecosystem..
 
 ## Features
 
